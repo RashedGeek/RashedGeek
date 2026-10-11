@@ -40,6 +40,7 @@
 
 <p align="left">
 <a href="https://twitter.com/rashed_speaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashed_speaks" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1DZGc9tmgt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-rasheduzzaman-rashed-23823b25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rasheduzzaman-rashed-23823b25a" height="30" width="40" /></a>
 </p>
 
